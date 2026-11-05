@@ -1,0 +1,18 @@
+body {
+    background: black;
+    color: white;
+    text-align: center;
+    font-family: Arial;
+    padding: 50px;
+}
+
+h1 {
+    color: cyan;
+}
+
+button {
+    background: cyan;
+    padding: 10px;
+    border: none;
+    cursor: pointer;
+}
